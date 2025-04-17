@@ -65,6 +65,11 @@ The **Weather Dashboard** is a responsive web application that provides real-tim
 
 ---
 
+##OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/f76b5418-4163-4f67-8468-033d32d80980)
+
+
 ## 🔮 Potential Future Enhancements
 
 - 🌐 Multi-language support.  
